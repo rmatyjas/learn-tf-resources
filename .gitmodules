@@ -1,0 +1,3 @@
+[submodule "modules/dynamodb"]
+	path = modules/dynamodb
+	url = https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table.git
